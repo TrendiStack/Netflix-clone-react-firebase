@@ -1,3 +1,7 @@
+# Netflix Clone
+
+This app is a netflix clone developed with react and firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
